@@ -1,6 +1,6 @@
 # Install miniconda on MacOS
 
-This is repository proposes a convenient script for downloading and installing Miniconda on MacOs. 
+This repository proposes a convenient script for downloading and installing Miniconda on MacOs. 
 
 ## Installation Steps
 Download and install the latest version of Miniconda:
